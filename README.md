@@ -101,7 +101,7 @@ scan_timeout = 10000
 
     format = "\\[ [羽$duration]($style) \\]" # nf-mdi-timer_sand
 
-    style = "#00BFFF"
+    style = "#FF00FF"
 
     show_milliseconds = true
 
@@ -193,7 +193,7 @@ scan_timeout = 10000
 
     format = "\\[ [ $time]($style) \\]" # nf-weather-time_3
 
-    style = "#FFA500"
+    style = "#00BFFF"
 
 ```
 
