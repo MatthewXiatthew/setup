@@ -200,7 +200,7 @@ scan_timeout = 10000
 
 ### git config --global (init.defaultBranch, user.name, user.email)
 
-### WHEN getting GH; remember remember: PRIVACY > turn thingis off
+### WHEN getting GH; remember remember: PRIVACY > turn thingis off ALSO GIVE FULL DISK ACCESS
 
 ### for GH:
 
