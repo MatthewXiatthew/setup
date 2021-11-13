@@ -8,6 +8,8 @@
 
 ### Name: FiraMono Nerd Font Mono
 
+### ITERM don't change size, COLOR: #181818
+
 ### VSCode: Shell:, Workspaces: Manage
 
 ### VSCode: Atom, Material
