@@ -101,7 +101,7 @@ scan_timeout = 10000
 
     format = "\\[ [羽$duration]($style) \\]" # nf-mdi-timer_sand
 
-    style = "#FF00FF"
+    style = "#00BFFF"
 
     show_milliseconds = true
 
@@ -151,6 +151,7 @@ scan_timeout = 10000
     style = "#FF00FF"
 
     deleted = "x"
+    up_to_date = "."
 
 [java]
 
@@ -183,8 +184,6 @@ scan_timeout = 10000
     style = "#00FF00"
 
     symbol = "" # nf-dev-python
-
-    python_binary = "python3"
 
     version_format = "$raw"
 
