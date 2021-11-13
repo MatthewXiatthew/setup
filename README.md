@@ -202,6 +202,8 @@ scan_timeout = 10000
 
 ### WHEN getting GH; remember remember: PRIVACY > turn thingis off ALSO GIVE FULL DISK ACCESS
 
+### NO ZOOM
+
 ### for GH:
 
 ```sh
